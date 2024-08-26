@@ -43,5 +43,8 @@
 ![Frame 1](https://github.com/user-attachments/assets/791f8e7c-3bbe-43f7-80b0-efb4fb8edd14)
 ![Frame 2](https://github.com/user-attachments/assets/b6160d10-39b0-4ee6-90f3-62c00f71d818)
 
+# 시연 영상
+https://www.youtube.com/watch?v=SzEPppy1-Kk
+
 
 
